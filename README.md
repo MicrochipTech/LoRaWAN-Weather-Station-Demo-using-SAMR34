@@ -34,7 +34,7 @@ LoRa stands for Long Range. LoRaWAN stands for Long Range Wide Area Networks. Lo
 ### Hardware Setup (Important !!!)
 1. Remove the USB adapter from RS485 to USB adapter that comes with the weather station
 2.  Solder A and B signals coming from Weather Station to A and B plated holes on the RS485 connector
-3.  Short 3-5 V signal on RS485 break out board to B on RS485 break out board - **Note**: when TeraTerm Emulator is being used to see logs of sensor data, join status being displayed (during development) - step 4 is essential for standalone operation of device
+3.  Short 3-5 V signal on RS485 break out board to B on RS485 break out board - **Note**: when TeraTerm Emulator is being used to see logs of sensor data, join status being displayed (during development) - step 4 is essential for standalone operation of device and can only be skipped when user wants to see logs of sensor data on a terminal emulator
 4.  connect 3-5 V signal to VCC of the SAM R34 Xplained Pro for standalone operation - **Note**: when TeraTerm Emulator is not being used and device is ready for standalone operation (standalone operation)
 5.  Connect "RTS" of the RS485 break out board to GND signal of SAM R34 Xplained Pro
 6. Connect "TX-O" of the RS485 break out board to PA05 of SAM R34 Xplained Pro
