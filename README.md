@@ -38,6 +38,7 @@ LoRa stands for Long Range. LoRaWAN stands for Long Range Wide Area Networks. Lo
 4.  Connect "RTS" of the RS485 break out board to GND signal of SAM R34 Xplained Pro
 5. Connect "TX-O" of the RS485 break out board to PA05 of SAM R34 Xplained Pro
 For refernce picture of the RS485 board denoting signals 
+
 ![](https://i.imgur.com/Yh4pGJb.png)
 6. Connect the SAM R34 Xplained Pro to PC via EDBG USB port
 7. Power On the Weather Station using 3 AA batteries 
