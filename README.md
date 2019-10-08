@@ -97,5 +97,5 @@ More details on protocol implementation for implementing the serial data etc can
 - 31th、32th：FF CRC (crc8, Polynomial_hex：31)
 - 33th、34 th：F9 checksum value (sum of the previous 16 bytes)
 
-**Snapshot of Hardware setup **
+**Snapshot of Hardware setup**
 ![](https://i.imgur.com/eVEGzBp.png)
