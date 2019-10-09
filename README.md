@@ -24,7 +24,7 @@ LoRa stands for Long Range. LoRaWAN stands for Long Range Wide Area Networks. Lo
 ### Hardware 
 
 - [SAM R34 Xplained Pro ](https://www.microchip.com/DevelopmentTools/ProductDetails/dm320111 "SAM R34 Xplained Pro ")(Qty: 1)
-- MISOL Weather Station  (Amazon - [Link](https://www.amazon.com/MISOL-weather-station-interface-length/dp/B0722KB1KB "Link")) (Ebay - [Link](https://www.ebay.com/itm/weather-station-with-RS485-interface-with-cable-length-3-2-meter-/272647276759 "Link"))
+- [MISOL Weather Station](http://www.misolie.net/weather-station-with-rs485-interface-with-cable-length-32-meter-p-506.html "MISOL Weather Station")   
 - [Sparkfun Transceiver Breakout Board](https://www.sparkfun.com/products/10124 "Sparkfun Transceiver Breakout Board")
 - Micro USB
 - US902 - LoRaWAN Gateway (that connects to The Things Network Server)  - [link](https://www.thethingsnetwork.org/docs/gateways/ "link")
