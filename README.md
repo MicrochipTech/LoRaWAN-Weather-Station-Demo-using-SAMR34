@@ -87,6 +87,7 @@ For refernce picture of the RS485 board denoting signals
 
 #### Weather Station Details
 ![](https://i.imgur.com/YQyVE3z.png)
+
 More details on protocol implementation for implementing the serial data etc can be requested to the manufacturer of the weather station
 **Data received explanation:** Total 34 data (hex)： (example of received hex data as：24 0D 14 62 A4 38 22 05 00 1C 00 03 00 15 18 FF F9
 - 1st、2nd： 24 (identify tx type)
